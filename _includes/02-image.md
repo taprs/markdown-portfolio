@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![This is not that hard](https://github.com/taprs/markdown-portfolio/pix/sredne.png)
