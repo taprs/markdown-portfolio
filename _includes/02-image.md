@@ -1,1 +1,1 @@
-![This is not that hard](https://github.com/taprs/markdown-portfolio/pix/sredne.png)
+![This is not that hard](https://taprs.github.io/markdown-portfolio/pix/sredne.png)
